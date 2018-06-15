@@ -1,0 +1,42 @@
+
+.bloque1 {
+	background-color: #A22D4D;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	padding-top: 50px;
+	padding-bottom: 80px;
+	line-height: 0.4
+}
+.bloque2 {
+	background-color: #54A4E8;
+	text-align: center; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.bloque3 {
+	background-image: url("../images/cuzco2.jpg");
+	background-position: top;
+	background-size: 100%;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: right;
+	padding-bottom: 300px
+}
+.bloque4 {
+	text-align: left;
+	font-family: 'El Rio Lobo';
+	font-weight: lighter;
+	font-size: 100px;
+	line-height: 1.2;
+	margin-left: 450px;
+		}
+.fuente1 {
+	font-family: 'El Rio Lobo';
+	color: #FF883D;
+	font-size: 50px;
+}
+.alinear {
+	margin-left: 300px;
+}
